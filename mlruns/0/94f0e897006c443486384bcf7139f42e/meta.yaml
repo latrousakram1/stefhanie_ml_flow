@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/0/94f0e897006c443486384bcf7139f42e/artifacts
+end_time: 1763524936903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94f0e897006c443486384bcf7139f42e
+run_name: Modèle_final_sauvegardé
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763524927826
+status: 3
+tags: []
+user_id: root

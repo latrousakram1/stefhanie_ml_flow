@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/0/88fb986dc046414e86fa0e76f5968cba/artifacts
+end_time: 1763524030476
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88fb986dc046414e86fa0e76f5968cba
+run_name: Ridge_base
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763524030442
+status: 3
+tags: []
+user_id: root

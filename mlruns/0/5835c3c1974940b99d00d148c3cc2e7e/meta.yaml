@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/0/5835c3c1974940b99d00d148c3cc2e7e/artifacts
+end_time: 1763524922279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5835c3c1974940b99d00d148c3cc2e7e
+run_name: Comparaison finale base vs optimisé
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763524921335
+status: 3
+tags: []
+user_id: root

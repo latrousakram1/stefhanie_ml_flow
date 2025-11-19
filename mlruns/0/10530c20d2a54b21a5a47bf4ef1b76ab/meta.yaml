@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/0/10530c20d2a54b21a5a47bf4ef1b76ab/artifacts
+end_time: 1763524644030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10530c20d2a54b21a5a47bf4ef1b76ab
+run_name: resilient-zebra-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763524135819
+status: 3
+tags: []
+user_id: root

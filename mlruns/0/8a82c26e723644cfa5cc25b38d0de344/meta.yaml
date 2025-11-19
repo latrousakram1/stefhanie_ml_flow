@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/0/8a82c26e723644cfa5cc25b38d0de344/artifacts
+end_time: 1763524130437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a82c26e723644cfa5cc25b38d0de344
+run_name: Linear_base
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763524130406
+status: 3
+tags: []
+user_id: root
